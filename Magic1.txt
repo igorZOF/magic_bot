@@ -1,0 +1,85 @@
+ancientapparation_ability -Скиллы героя
+ancientapparation_main - Показать характеристики аппарата и последние удачные игры
+bane_ability - Скиллы героя
+bain_main - Характеристики бейна и последние удачные игры
+batrider_ability - Скиллы героя
+batrider_main - Характеристики бетрейдера и последние удачные игры
+chen_ability - Скиллы героя
+chen_main - Характеристики чена и последние удачные игры
+crystalmaiden_ability - Скиллы героя
+crystalmaiden_main - Характеристики цмки и последние удачные игры
+darkseer_ability - Скиллы героя
+darkseer_main - Характеристики дарксира и последние удачные игры
+darkwillow_ability - Скиллы героя
+darkwillow_main - Характеристики феи и последние удачные игры
+dazzle_ability - Скиллы героя
+dazzle_main - Характеристики дазла и последние удачные игры
+deathprophet_ability - Скиллы героя
+deathprophet_main - Характеристики банши и последние удачные игры
+disruptor_ability - Скиллы героя
+disruptor_main - Характеристики дизраптора и последние удачные игры
+enchantress_ability - Скиллы героя
+enchantress_main - Характеристики козы и последние удачные игры
+enigma_ability - Скиллы героя
+enigma_main - Характеристики энигмы и последние удачные игры
+grimstroke_ability - Скиллы героя
+grimstroke_main - Характеристики гримстроука и последние удачные игры
+invoker_ability - Скиллы героя
+invoker_main - Характеристики инвокера и последние удачные игры
+invoker_node - Список каста способностей
+jakiro_ability - Скиллы героя
+jakiro_main - Характеристики джакиро и последние удачные игры
+kotl_ability - Скиллы героя
+kotl_main - Характеристики котла и последние удачные игры
+leshrac_ability - Скиллы героя
+leshrac_main - Характеристики лешрака и последние удачные игры
+lich_ability - Скиллы героя
+lich_main - Характеристики лича и последние удачные игры
+lina_ability - Скиллы героя
+lina_main - Характеристики лины и последние удачные игры
+lion_ability - Скиллы героя
+lion_main - Характеристики лиона и последние удачные игры
+naturesprophet_ability - Скиллы героя
+naturesprophet_main -  Характеристики фуры и последние удачные игры
+necrophos_ability - Скиллы героя
+necrophos_main - Характеристики некра и последние удачные игры
+ogremagi_ability - Скиллы героя
+ogremagi_main - Характеристика огра и последние удачные игры
+oracle_ability - Скиллы героя
+oracle_main - Характеристики оракла и последние удачные игры
+outworlddevourer_ability - Скиллы героя
+outworlddevourer_main - Характеристики девойра и последние удачные игры
+puck_ability - Скиллы героя
+puck_main - Характеристики пака и последние удачные игры
+pugna_ability - Скиллы героя
+pugna_main - Характеристики пугны и последние удачные игры
+queenofpain_ability - Скиллы героя
+queenofpain_main - Характеристики квопы и последние удачные игры
+rubick_ability - Скиллы героя
+rubick_main - Характеристики рубика и последние удачные игры 
+shadowdemon_ability - Скиллы героя
+shadowdemon_main - Характеристики демона и последние удачные игры
+shadowshaman_ability - Скиллы героя
+shadowshaman_main - Характеристики расты и последние удачные игры
+silencer_ability - Скиллы героя
+silencer_main - Характеристики сайленсера и последние удачные игры
+skywrathmage_ability -Скиллы героя
+skywrathmage_main - Характеристики петуха и последние удачные игры
+stormspirit_ability - Скиллы героя
+stormspirit_main - Характеристики шторма и последние удачные игры
+techies_ability - Скиллы героя
+techies_main - Характеристики минера и последние удачные игры
+tinker_ability - Скиллы героя
+tinker_main - Характеристики тинкера и последние удачные игры
+visage_ability -Скиллы героя
+visage_main - Характеристики висажа и последние удачные игры
+warlock_ability - Скиллы героя
+warlock_main - Характеристики варлока и последние удачные игры
+windranger_ability - Скиллы героя
+windranger_main - Характеристики врки и последние удачные игры
+winterwyvern_ability -Скиллы героя
+winterwyvern_main - Характеристики виверны и последние удачные игры
+witchdoctor_ability - Скиллы героя
+witchdoctor_main - Характеристики доктора и последние удачные игры
+zeus_ability - Скиллы героя
+zeus_main - Характеристики зевса и последние удачные игры
